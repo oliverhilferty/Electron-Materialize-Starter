@@ -1,0 +1,24 @@
+{
+  "name": "electron-materialize-starter",
+  "version": "1.0.0",
+  "description": "A starter for Electron apps with Materialize",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverhilferty/Electron-Materialize-Starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverhilferty/Electron-Materialize-Starter/issues"
+  },
+  "homepage": "https://github.com/oliverhilferty/Electron-Materialize-Starter#readme"
+}

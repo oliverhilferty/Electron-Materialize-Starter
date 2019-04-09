@@ -4,6 +4,8 @@ A starter for Electron + Materialize apps; everything you need to get up and run
 ## How to run
 To start the application, just run the following in your console
 ```
+git clone https://github.com/oliverhilferty/Electron-Materialize-Starter.git
+cd Electron-Materialize-Starter
 npm install
 npm run start
 ```
